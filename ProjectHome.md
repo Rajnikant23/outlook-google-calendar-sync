@@ -1,0 +1,1 @@
+This project allows the two way sync of google and outlook calendars and reminders by means of an Outlook plugin.
